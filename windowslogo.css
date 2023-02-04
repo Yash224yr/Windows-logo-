@@ -42,7 +42,7 @@
     background-color: black;
     transform: rotate(-7deg);
     top: -24px;
-    left: -4px;
+    left: -6px;
 }
 .logo::after{
     content: "";
@@ -51,6 +51,6 @@
     width: 406px;
     background-color: black;
     transform: rotate(5deg);
-    bottom: -24px;
+    bottom: -17px;
     left: -4px;
 }
